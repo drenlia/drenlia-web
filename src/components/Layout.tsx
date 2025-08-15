@@ -3,6 +3,7 @@ import { useLocation } from 'react-router-dom';
 import styled from 'styled-components';
 import Navbar from './Navbar';
 import Footer from './Footer';
+import DemoHeader from './DemoHeader';
 import GlobalStyles from '../styles/GlobalStyles';
 
 const Main = styled.main`
@@ -26,6 +27,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
     <>
       <GlobalStyles />
+      <DemoHeader />
       <Navbar />
       <Main>{children}</Main>
       <Footer />
