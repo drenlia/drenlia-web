@@ -1,30 +1,30 @@
 {
-  "title": "Our Services",
-  "subtitle": "Discover how we can help transform your business with our comprehensive range of services.",
+  "title": "Our Fictional Services",
+  "subtitle": "Discover how we can help you become space enthusiasts.",
   "categories": {
     "service1": {
-      "title": "Customer Service",
-      "description": "We help businesses enhance their customer interactions through comprehensive support solutions and satisfaction improvement strategies."
+      "title": "Alien Life Discovery",
+      "description": "Hunt for E.T. with radio telescopes and AI! Scan stars for alien signals, name any we find, and join our “First Contact Party” if we spot space microbes or chatty extraterrestrials."
     },
     "service2": {
-      "title": "Training & Education",
-      "description": "Our expert consultants provide tailored training programs and educational solutions to develop your team's skills and knowledge."
+      "title": "Starship Joyride Simulator",
+      "description": "Pilot a virtual spaceship in VR! Dodge asteroids, zip past Saturn’s rings, or race comets using NASA data. Get a custom flight patch and brag about your cosmic adventure."
     },
     "service3": {
-      "title": "Marketing & Branding",
-      "description": "We help you build a strong brand identity and develop effective marketing strategies to increase your market visibility."
+      "title": "Name-Your-Own Star",
+      "description": "Name a star after yourself or your pet! Get a star map and throw a telescope party with cosmic snacks and music. Immortalize your name in the sky!"
     },
     "service4": {
-      "title": "Financial Planning",
-      "description": "Our comprehensive financial planning services help you manage resources effectively and develop sound financial strategies."
+      "title": "Meteorite Treasure Hunt",
+      "description": "Hunt meteorites with a detector and our app! Find space rocks, name them (like “StarSmasher”), and get a certified cosmic keepsake. It’s an epic adventure for starry-eyed explorers."
     },
     "service5": {
-      "title": "Operations Management",
-      "description": "We implement efficient operational processes to streamline your daily activities and improve overall business efficiency."
+      "title": "Galactic Pen Pal Program",
+      "description": "Send messages to aliens via radio transmitter! Write to distant stars, get a “Cosmic Postmark,” and await a reply from Proxima Centauri. Start an intergalactic chat today!"
     },
     "service6": {
-      "title": "Strategic Planning",
-      "description": "With our strategic planning expertise, we help organizations set clear goals and develop effective paths to achieve them."
+      "title": "Zero-Gravity Dance Party",
+      "description": "Dance in a microgravity chamber to space tunes! Float, spin, and moonwalk like an astronaut. Record your moves for a stellar vid. Gravity’s out, fun’s in!"
     }
   }
-} 
+}

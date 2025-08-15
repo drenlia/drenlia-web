@@ -1,6 +1,6 @@
 {
   "title": "Nos Projets",
-  "subtitle": "Découvrez notre portfolio de solutions numériques réussies",
+  "subtitle": "Découvrez notre portfolio de projects",
   "status": {
     "pending-approval": "En attente d'approbation",
     "planned": "Planifié",
@@ -14,4 +14,4 @@
     "viewProject": "Voir le projet",
     "demo": "Démo en direct"
   }
-} 
+}

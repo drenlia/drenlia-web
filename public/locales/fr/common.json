@@ -1,8 +1,8 @@
 {
   "nav": {
     "home": "Accueil",
-    "about": "À propos",
-    "services": "Services",
+    "about": "Photos",
+    "services": "Fiction",
     "projects": "Projets",
     "contact": "Contact",
     "login": "Connexion",
@@ -11,7 +11,7 @@
   "footer": {
     "about": {
       "title": "À propos de nous",
-      "description": "Nous créons des solutions innovantes pour les problèmes modernes. Découvrez nos services et projets."
+      "description": "Nous sommes des passionnés de l'espace"
     },
     "links": {
       "title": "Liens rapides",
@@ -25,7 +25,7 @@
       "phone_tooltip": "C'est évidemment un faux numéro ! Veuillez nous envoyer un courriel.",
       "address": "1234 Rue de la Paix, Ville de Montréal, QC, H3Z 2Y7, Canada"
     },
-    "copyright": "© {{year}} Votre Entreprise. Tous droits réservés."
+    "copyright": "© {{year}} Site démo. Tous droits réservés."
   },
   "loading": "Chargement...",
   "error": {

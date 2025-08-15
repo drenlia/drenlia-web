@@ -1,16 +1,16 @@
 {
   "hero": {
-    "title": "Welcome to My Website",
-    "subtitle": "We create innovative solutions to modern problems. Discover our services.",
-    "description": "We specialize in building cutting-edge web applications, providing expert IT consulting, and delivering comprehensive technology solutions that help your business thrive in the digital age.",
+    "title": "Demo Web Space",
+    "subtitle": "We are passionate about Space",
+    "description": "This is a demo website",
     "buttons": {
-      "services": "Services",
+      "services": "Fiction",
       "contact": "Contact us"
     }
   },
   "cta": {
-    "title": "Ready to transform your digital presence?",
-    "description": "Let's discuss how we can help you achieve your goals and take your business to the next level.",
-    "button": "Get Started"
+    "title": "Let us know how we can help",
+    "description": "We're always open to talk about anything",
+    "button": "Contact"
   }
 }

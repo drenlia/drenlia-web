@@ -1,30 +1,30 @@
 {
-  "title": "Nos Services",
-  "subtitle": "Découvrez comment nous pouvons transformer votre entreprise grâce à notre gamme complète de services.",
+  "title": "Nos services fictifs",
+  "subtitle": "Découvrez comment nous pouvons vous aider à devenir des passionnés de l'espace.",
   "categories": {
     "service1": {
-      "title": "Service Client",
-      "description": "Nous aidons les entreprises à améliorer leurs interactions avec les clients grâce à des solutions de support complètes et des stratégies d'amélioration de la satisfaction."
+      "title": "Découverte de vie extraterrestre",
+      "description": "Partez à la chasse aux extraterrestres avec des radiotélescopes et l'IA ! Scrutez les étoiles à la recherche de signaux extraterrestres, nommez ceux que vous trouvez et rejoignez notre « First Contact Party » si vous repérez des microbes spatiaux ou des extraterrestres bavards."
     },
     "service2": {
-      "title": "Formation & Éducation",
-      "description": "Nos consultants experts fournissent des programmes de formation et des solutions éducatives adaptés pour développer les compétences et les connaissances de votre équipe."
+      "title": "Simulateur de balade en vaisseau spatial",
+      "description": "Pilotez un vaisseau spatial virtuel en VR ! Évitez les astéroïdes, foncez au-delà des anneaux de Saturne ou affrontez des comètes grâce aux données de la NASA. Obtenez un écusson de vol personnalisé et partagez votre aventure cosmique."
     },
     "service3": {
-      "title": "Marketing & Image de Marque",
-      "description": "Nous vous aidons à construire une identité de marque forte et à développer des stratégies marketing efficaces pour augmenter votre visibilité sur le marché."
+      "title": "Nommez votre propre étoile",
+      "description": "Donnez votre nom ou celui de votre animal à une étoile ! Procurez-vous une carte des étoiles et organisez une fête avec télescope, gourmandises et musique cosmiques. Immortalisez votre nom dans le ciel !"
     },
     "service4": {
-      "title": "Planification Financière",
-      "description": "Nos services complets de planification financière vous aident à gérer efficacement vos ressources et à développer des stratégies financières solides."
+      "title": "Chasse au trésor des météorites",
+      "description": "Partez à la chasse aux météorites avec un détecteur et notre application ! Trouvez des roches spatiales, nommez-les (comme « StarSmasher ») et obtenez un souvenir cosmique certifié. Une aventure épique pour les explorateurs aux yeux étoilés."
     },
     "service5": {
-      "title": "Gestion des Opérations",
-      "description": "Nous mettons en œuvre des processus opérationnels efficaces pour optimiser vos activités quotidiennes et améliorer l'efficacité globale de votre entreprise."
+      "title": "Programme de correspondance galactique",
+      "description": "Envoyez des messages aux extraterrestres via un émetteur radio ! Écrivez aux étoiles lointaines, obtenez un « Cache-poste cosmique » et attendez une réponse de Proxima du Centaure. Commencez une conversation intergalactique dès aujourd'hui !"
     },
     "service6": {
-      "title": "Planification Stratégique",
-      "description": "Avec notre expertise en planification stratégique, nous aidons les organisations à définir des objectifs clairs et à développer des chemins efficaces pour les atteindre."
+      "title": "Soirée dansante en apesanteur",
+      "description": "Dansez dans une chambre de microgravité au son de musiques spatiales ! Flottez, tournez et faites un moonwalk comme un astronaute. Enregistrez vos mouvements pour une vidéo époustouflante. Fini la gravité, place au fun !"
     }
   }
-} 
+}

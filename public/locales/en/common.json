@@ -1,8 +1,8 @@
 {
   "nav": {
     "home": "Home",
-    "about": "About",
-    "services": "Services",
+    "about": "Pictures",
+    "services": "Fiction",
     "projects": "Projects",
     "contact": "Contact",
     "login": "Login",
@@ -11,7 +11,7 @@
   "footer": {
     "about": {
       "title": "About Us",
-      "description": "We create innovative solutions to modern problems. Discover our services and projects."
+      "description": "We are space enthusiasts"
     },
     "links": {
       "title": "Quick links",
@@ -25,7 +25,7 @@
       "phone_tooltip": "This is obviously a wrong number! Please email us.",
       "address": "1234 Rue de la Paix, City of Montreal, QC, H3Z 2Y7, Canada"
     },
-    "copyright": "© {{year}} Your Company. All rights reserved."
+    "copyright": "© {{year}} Demo site. All rights reserved."
   },
   "loading": "Loading...",
   "error": {

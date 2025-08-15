@@ -1,16 +1,16 @@
 {
   "hero": {
-    "title": "Bienvenue sur mon site Web",
-    "subtitle": "Nous créons des solutions innovantes aux problèmes modernes. Découvrez nos services.",
-    "description": "Nous nous spécialisons dans la création d'applications Web de pointe, en fournissant des conseils informatiques d'experts et en proposant des solutions technologiques complètes qui aident votre entreprise à prospérer à l'ère numérique.",
+    "title": "Espace web de démonstration",
+    "subtitle": "Nous sommes des passionnés de l'espace",
+    "description": "Ceci est un site Web de démonstration",
     "buttons": {
-      "services": "Services",
+      "services": "Fiction",
       "contact": "Contactez-nous"
     }
   },
   "cta": {
-    "title": "Prêt à transformer votre présence numérique ?",
-    "description": "Discutons de la manière dont nous pouvons vous aider à atteindre vos objectifs et à faire passer votre entreprise au niveau supérieur.",
-    "button": "Commencer"
+    "title": "Dites-nous comment nous pouvons vous aider",
+    "description": "Nous sommes toujours ouverts pour parler de tout et de rien",
+    "button": "Contact"
   }
 }

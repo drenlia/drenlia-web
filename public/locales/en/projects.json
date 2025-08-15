@@ -1,6 +1,6 @@
 {
   "title": "Our Projects",
-  "subtitle": "Discover our portfolio of successful digital solutions",
+  "subtitle": "Discover our portfolio of projects",
   "status": {
     "pending-approval": "Pending Approval",
     "planned": "Planned",
@@ -14,4 +14,4 @@
     "viewProject": "View Project",
     "demo": "Live Demo"
   }
-} 
+}
