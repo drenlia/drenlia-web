@@ -1533,45 +1533,10 @@ app.post('/api/admin/setup/stop', auth.isAdmin, (req, res) => {
 
 // Start setup service endpoint
 app.post('/api/admin/setup/start', auth.isAdmin, (req, res) => {
-  try {
-    const setupPath = path.join(__dirname, '../setup');
-    const flagPath = path.join(__dirname, '../.setup-disabled');
-    
-    // Remove the flag file to enable setup
-    fs.unlink(flagPath, (unlinkError) => {
-      if (unlinkError) {
-        console.error('Error removing setup disabled flag:', unlinkError);
-        return res.status(500).json({ 
-          success: false, 
-          error: 'Failed to enable setup service',
-          details: unlinkError.message
-        });
-      }
-
-      // Start the service in the background
-      const setupProcess = spawn('npm', ['run', 'start'], { 
-        cwd: setupPath,
-        detached: true,
-        stdio: 'ignore'
-      });
-
-      // Unref the process so it can run independently
-      setupProcess.unref();
-
-      res.json({ 
-        success: true, 
-        message: 'Setup service started and enabled successfully',
-        output: 'Setup service started in the background'
-      });
-    });
-  } catch (error) {
-    console.error('Error in start setup service endpoint:', error);
-    res.status(500).json({ 
-      success: false, 
-      error: 'Internal server error',
-      details: error.message
-    });
-  }
+  return res.status(403).json({
+    success: false,
+    error: 'Setup service cannot be started in the demo environment',
+  });
 });
 
 // Check if a port is in use
